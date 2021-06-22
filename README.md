@@ -1,0 +1,1 @@
+# unity-cookbook-2020-ch13-02b-gizmo-grid-snap-singleton
